@@ -11,6 +11,7 @@
     "HEADDER_PRIMARY": ["#3e0aad"],
     "HEADDER_SECONDARY": ["#300982"],
     "BACKGROUND_PRIMARY": ["#1b1db3"],
+    "BACKGROUND_SECONDARY": ["#13147d"],
     "CHAT_BACKGROUND": ["#1b1db3"]
   }
 }
