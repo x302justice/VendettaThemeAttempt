@@ -7,12 +7,13 @@
     "id" : "1016089123146178590"
     }
   ],
-  "SemanticColours": {
+  "semanticColours": {
     "HEADDER_PRIMARY": ["#3e0aad"],
     "HEADDER_SECONDARY": ["#300982"],
     "BACKGROUND_PRIMARY": ["#1b1db3"],
     "BACKGROUND_SECONDARY": ["#13147d"],
     "CHAT_BACKGROUND": ["#1b1db3"]
   },
+
   "spec": 2
 }
