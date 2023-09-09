@@ -10,6 +10,7 @@
   "SemanticColours": {
     "HEADDER_PRIMARY": ["#3e0aad"],
     "HEADDER_SECONDARY": ["#300982"],
-    "BACKGROUND_PRIMARY": ["#1b1db3"]
+    "BACKGROUND_PRIMARY": ["#1b1db3"],
+    "CHAT_BACKGROUND": ["#1b1db3"]
   }
 }
