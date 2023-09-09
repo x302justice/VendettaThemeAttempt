@@ -1,0 +1,34 @@
+{
+  "name": "Fucking Around Theme",
+  "description": "A theme i made just to test the waters with this kind of thing. I am not too good at this.",
+  "authors": [
+    {
+    "name" : "x302justice",
+    "id" : "1016089123146178590"
+    }
+  ],
+  "semanticColours": {
+    "HEADDER_PRIMARY": ["#3e0aad"],
+    "HEADDER_SECONDARY": ["#300982"],
+    "BACKGROUND_PRIMARY": ["#0d1836"],
+    "BACKGROUND_SECONDARY": ["#13147d"],
+    "CHAT_BACKGROUND": ["#0d1836"],
+    "TEXT_NORMAL": ["#ffffff"]
+  },
+  "rawColors": {
+    "BRAND_260": "#383359",
+    "BRAND_360": "#8A80FF",
+    "BRAND_560": "#6241ba",
+    "GREEN_360": "#6243FF",
+    "PRIMARY_230": "#ffffff",
+    "PRIMARY_600": "#0d1836",
+    "PRIMARY_630": "#0d1836",
+    "PRIMARY_660": "#1d3857",
+    "PRIMARY_700": "#0c1221",
+    "PRIMARY_800": "#0d1836",
+    "RED_400": "#b31515",
+    "WHITE_500": "#ffffff",
+    "YELLOW_300": "#d1c517"
+  },
+  "spec": 2
+}
