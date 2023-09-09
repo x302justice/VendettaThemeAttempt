@@ -13,5 +13,6 @@
     "BACKGROUND_PRIMARY": ["#1b1db3"],
     "BACKGROUND_SECONDARY": ["#13147d"],
     "CHAT_BACKGROUND": ["#1b1db3"]
-  }
+  },
+  "spec": 2
 }
