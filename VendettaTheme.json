@@ -16,9 +16,9 @@
     "TEXT_NORMAL": ["#ffffff"]
   },
   "rawColors": {
-    "BRAND_260": "#ffffff",
+    "BRAND_260": "#6357b5",
     "BRAND_360": "#8A80FF",
-    "BRAND_560": "#4719C4",
+    "BRAND_560": "#ffffff",
     "GREEN_360": "#6243FF",
     "PRIMARY_230": "#8A80FF",
     "PRIMARY_600": "#0d1836",
