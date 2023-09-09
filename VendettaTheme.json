@@ -12,7 +12,7 @@
     "HEADDER_SECONDARY": ["#300982"],
     "BACKGROUND_PRIMARY": ["#0d1836"],
     "BACKGROUND_SECONDARY": ["#1c7780"],
-    "CHAT_BACKGROUND": ["#0d1836"],
+    "CHAT_BACKGROUND": ["#1c7780"],
     "TEXT_NORMAL": ["#ffffff"]
   },
   "rawColors": {
