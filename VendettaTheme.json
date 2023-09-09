@@ -12,7 +12,8 @@
     "HEADDER_SECONDARY": ["#300982"],
     "BACKGROUND_PRIMARY": ["#0d1836"],
     "BACKGROUND_SECONDARY": ["#13147d"],
-    "CHAT_BACKGROUND": ["#0d1836"]
+    "CHAT_BACKGROUND": ["#0d1836"],
+    "TEXT_NORMAL": ["ffffff"]
   },
   "rawColors": {
     "BRAND_260": "#6357b5",
