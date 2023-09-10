@@ -32,8 +32,10 @@
   },
   "plus":{
     "version": 0,
-    "icons"{
+    "icons": {
       "emoji": ["RC_PLAYSTATION"]
+    }
   },
   "spec": 2
+
 }
