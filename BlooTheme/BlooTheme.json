@@ -33,7 +33,7 @@
   "plus":{
     "version": 0,
     "icons": {
-      "emoji": ["RC_PLAYSTATION"]
+      "emoji": "RC_PLAYSTATION"
     }
   },
   "spec": 2
