@@ -15,7 +15,7 @@
     "CHAT_BACKGROUND": ["#0c1221"],
     "TEXT_NORMAL": ["#ffffff"],
     "TEXT_LINK": ["#3c4b73"],
-    "INTERACTIVE_NORMAL": ["#0c1221"]
+    "INTERACTIVE_ACTIVE": ["#0c1221"]
   },
   "rawColors": {
     "BRAND_260": "#375adb",
