@@ -16,6 +16,7 @@
     "BACKGROND_TERTIARY": ["#6788db"],
     "BACKGROUND_ACCENT": ["#233c82"],
     "BACKGROUND_SECONDARY_ALT": ["#1d3857"],
+    "CHANNEL_ICON": ["#ffffff"],
     "CHAT_BACKGROUND": ["#0c1221"],
     "TEXT_NORMAL": ["#ffffff"],
     "TEXT_LINK": ["#1f8f8d"],
