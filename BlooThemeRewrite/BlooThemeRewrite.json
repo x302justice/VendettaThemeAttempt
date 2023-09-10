@@ -23,12 +23,12 @@
     "TEXT_LINK": ["#1f8f8d"],
     "TEXT_DANGER":["#a10000"],
     "INTERACTIVE_ACTIVE": ["#0c1221"],
-    "INTERACTIVE_NORMAL": ["#4d73bf "]
+    "INTERACTIVE_NORMAL": ["#4d73bf"]
   },
   "rawColors": {
     "PRINARY_100": "#5096e6",
     "PRIMARY_200": "#0b3666",
-    "PRIMARY_300": "#4d73bf",
+    "PRIMARY_300": "#0d1836",
     "PRIMARY_400": "#0d1836",
     "PRIMARY_500": "#ffffff",
     "PRIMARY_600": "#0a142b",
