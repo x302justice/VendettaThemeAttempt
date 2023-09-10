@@ -30,5 +30,10 @@
     "WHITE_500": "#ffffff",
     "YELLOW_300": "#d1c517"
   },
+  "plus":{
+    "version": 0,
+    "icons"{
+      "emoji": ["RC_PLAYSTATION"]
+  },
   "spec": 2
 }
