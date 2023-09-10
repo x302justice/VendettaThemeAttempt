@@ -1,0 +1,47 @@
+{
+  "name": "Bloo Theme Rewrite",
+  "description": "The first theme i made to act as a template. This theme is also my first theme, now rewritten to work with semantic colours :D",
+  "authors": [
+    {
+    "name" : "x302justice",
+    "id" : "1016089123146178590"
+    }
+  ],
+  "spec":2,
+  "semanticColours": {
+    "HEADDER_PRIMARY": ["ffffff"],
+    "HEADDER_SECONDARY": ["#485673"],
+    "BACKGROUND_PRIMARY": ["#0d1836"],
+    "BACKGROUND_SECONDARY": ["#1d3857"],
+    "BACKGROND_TERTIARY": ["#0d1836"],
+    "BACKGROUND_ACCENT": ["#233c82"],
+    "BACKGROUND_SECONDARY_ALT": ["#1d3857"],
+    "BACKGROUND_MESSAGE_HOVER": ["#6788db"],
+    "CHANNEL_ICON": ["#485673"],
+    "CHAT_BACKGROUND": ["#0c1221"],
+    "TEXT_NORMAL": ["#ffffff"],
+    "TEXT_MUTED": ["#000000"],
+    "TEXT_LINK": ["#1f8f8d"],
+    "TEXT_DANGER":["#a10000"],
+    "INTERACTIVE_ACTIVE": ["#0c1221"]
+  },
+  "rawColors": {
+    "PRINARY_100": "#5096e6",
+    "PRIMARY_200": "#0b3666",
+    "PRIMARY_300": "#4d73bf",
+    "PRIMARY_400": "#0d1836",
+    "PRIMARY_500": "#060724",
+    "PRIMARY_600": "#060724",
+    "PRIMARY_630": "#233c82",
+    "PRIMARY_660": "#0d1836",
+    "PRIMARY_700": "#1d3857",
+    "PRIMARY_800": "#0d1836",
+    "BRAND_260": "#375adb",
+    "BRAND_360": "#6200ff",
+    "BRAND_560": "#4d73bf",
+    "GREEN_360": "#1cad39",
+    "RED_400": "#b31515",
+    "WHITE_500": "#ffffff",
+    "YELLOW_300": "#d1c517"
+  }
+}
