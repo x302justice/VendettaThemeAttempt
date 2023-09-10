@@ -8,14 +8,16 @@
     }
   ],
   "semanticColours": {
-    "HEADDER_PRIMARY": ["#0c1221"],
+    "HEADDER_PRIMARY": ["ffffff"],
     "HEADDER_SECONDARY": ["#0c1221"],
     "BACKGROUND_PRIMARY": ["#0d1836"],
-    "BACKGROUND_SECONDARY": ["#0c1221"],
+    "BACKGROUND_SECONDARY": ["#1d3857"],
+    "BACKGROUND_SECONDARY_ALT": ["#1d3857"],
     "CHAT_BACKGROUND": ["#0c1221"],
     "TEXT_NORMAL": ["#ffffff"],
-    "TEXT_LINK": ["#3c4b73"],
-    "INTERACTIVE_ACTIVE": ["#0c1221"]
+    "TEXT_LINK": ["#1f8f8d"],
+    "INTERACTIVE_ACTIVE": ["#0c1221"],
+    "INTERACTIVE_NORMAL": ["#4d73bf "]
   },
   "rawColors": {
     "BRAND_260": "#375adb",
