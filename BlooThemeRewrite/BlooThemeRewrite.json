@@ -18,6 +18,7 @@
     "CHAT_BACKGROUND": ["#0c1221"],
     "TEXT_NORMAL": ["#ffffff"],
     "TEXT_LINK": ["#1f8f8d"],
+    "TEXT_DANGER":["#a10000"],
     "INTERACTIVE_ACTIVE": ["#0c1221"],
     "INTERACTIVE_NORMAL": ["#4d73bf "]
   },
