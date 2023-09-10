@@ -7,6 +7,7 @@
     "id" : "1016089123146178590"
     }
   ],
+  "spec":2,
   "semanticColours": {
     "HEADDER_PRIMARY": ["ffffff"],
     "HEADDER_SECONDARY": ["#0c1221"],
