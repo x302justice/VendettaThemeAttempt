@@ -10,7 +10,7 @@
   "spec":2,
   "semanticColours": {
     "HEADDER_PRIMARY": ["ffffff"],
-    "HEADDER_SECONDARY": ["#0c1221"],
+    "HEADDER_SECONDARY": ["#ffffff"],
     "BACKGROUND_PRIMARY": ["#0d1836"],
     "BACKGROUND_SECONDARY": ["#1d3857"],
     "BACKGROND_TERTIARY": ["#0d1836"],
