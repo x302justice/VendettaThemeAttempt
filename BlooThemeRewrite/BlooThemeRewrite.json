@@ -21,16 +21,16 @@
     "INTERACTIVE_NORMAL": ["#4d73bf "]
   },
   "rawColors": {
-    "BRAND_260": "#375adb",
-    "BRAND_360": "#8A80FF",
-    "BRAND_560": "#4d73bf",
-    "GREEN_360": "#1cad39",
-    "PRIMARY_230": "#ffffff",
+    "PRINARY_100": "#5096e6",
+    "PRIMARY_200": "#021e3d",
+    "PRIMARY_300": "#4d73bf",
+    "PRIMARY_400": "#0d1836",
     "PRIMARY_600": "#0d1836",
     "PRIMARY_630": "#0d1836",
     "PRIMARY_660": "#0c1221",
     "PRIMARY_700": "#1d3857",
     "PRIMARY_800": "#0d1836",
+    "GREEN_360": "#1cad39",
     "RED_400": "#b31515",
     "WHITE_500": "#ffffff",
     "YELLOW_300": "#d1c517"
