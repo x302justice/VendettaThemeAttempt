@@ -7,6 +7,7 @@
     "id" : "1016089123146178590"
     }
   ],
+  "spec":2,
   "semanticColours": {
     "HEADDER_PRIMARY": ["ffffff"],
     "HEADDER_SECONDARY": ["#0c1221"],
@@ -35,10 +36,12 @@
     "PRIMARY_660": "#0d1836",
     "PRIMARY_700": "#1d3857",
     "PRIMARY_800": "#0d1836",
+    "BRAND_260": "#375adb",
+    "BRAND_360": "#8A80FF",
+    "BRAND_560": "#4d73bf",
     "GREEN_360": "#1cad39",
     "RED_400": "#b31515",
     "WHITE_500": "#ffffff",
     "YELLOW_300": "#d1c517"
-  },
-  "spec":2
+  }
 }
