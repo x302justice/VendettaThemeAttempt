@@ -1,0 +1,34 @@
+{
+  "name": "Bloo Theme",
+  "description": "The first theme i made to act as a template. This theme is also my first theme",
+  "authors": [
+    {
+    "name" : "x302justice",
+    "id" : "1016089123146178590"
+    }
+  ],
+  "semanticColours": {
+    "HEADDER_PRIMARY": ["#3e0aad"],
+    "HEADDER_SECONDARY": ["#300982"],
+    "BACKGROUND_PRIMARY": ["#0d1836"],
+    "BACKGROUND_SECONDARY": ["#13147d"],
+    "CHAT_BACKGROUND": ["#0d1836"],
+    "TEXT_NORMAL": ["#ffffff"]
+  },
+  "rawColors": {
+    "BRAND_260": "#375adb",
+    "BRAND_360": "#8A80FF",
+    "BRAND_560": "#4d73bf",
+    "GREEN_360": "#1cad39",
+    "PRIMARY_230": "#ffffff",
+    "PRIMARY_600": "#0d1836",
+    "PRIMARY_630": "#0d1836",
+    "PRIMARY_660": "#1d3857",
+    "PRIMARY_700": "#1d3857",
+    "PRIMARY_800": "#0d1836",
+    "RED_400": "#b31515",
+    "WHITE_500": "#ffffff",
+    "YELLOW_300": "#d1c517"
+  },
+  "spec": 2
+}
