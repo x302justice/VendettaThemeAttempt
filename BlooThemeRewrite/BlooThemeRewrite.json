@@ -17,13 +17,15 @@
     "BACKGROUND_ACCENT": ["#4d73bf"],
     "BACKGROUND_SECONDARY_ALT": ["#1d3857"],
     "BACKGROUND_MESSAGE_HOVER": ["#6788db"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#6788db"],
     "CHANNEL_ICON": ["#485673"],
     "CHAT_BACKGROUND": ["#0c1221"],
     "TEXT_NORMAL": ["#ffffff"],
     "TEXT_MUTED": ["#000000"],
     "TEXT_LINK": ["#04d1ca"],
     "TEXT_DANGER":["#a10000"],
-    "INTERACTIVE_ACTIVE": ["#0c1221"]
+    "INTERACTIVE_ACTIVE": ["#0c1221"],
+    "channel_text_area_placeholder": ["#ffffff"]
   },
   "rawColors": {
     "PRINARY_100": "#5096e6",
