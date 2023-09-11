@@ -24,7 +24,7 @@
     "TEXT_MUTED": ["#000000"],
     "TEXT_LINK": ["#04d1ca"],
     "TEXT_DANGER":["#a10000"],
-    "INTERACTIVE_ACTIVE": ["#0c1221"],
+    "INTERACTIVE_ACTIVE": ["#5096e6"],
     "channel_text_area_placeholder": ["#ffffff"]
   },
   "rawColors": {
