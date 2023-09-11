@@ -23,7 +23,7 @@
     "TEXT_NORMAL": ["#ffffff"],
     "TEXT_LINK": ["#04d1ca"],
     "TEXT_DANGER":["#a10000"],
-    "INTERACTIVE_ACTIVE": ["#5096e6"],
+    "INTERACTIVE_ACTIVE": ["#ffffff"],
     "CHANNEL_TEXT_AREA_PLACEHOLDER": ["#ffffff"]
   },
   "rawColors": {
