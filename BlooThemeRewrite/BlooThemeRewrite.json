@@ -21,7 +21,7 @@
     "CHANNEL_ICON": ["#485673"],
     "CHAT_BACKGROUND": ["#0c1221"],
     "TEXT_NORMAL": ["#ffffff"],
-    "TEXT_MUTED": ["#000000"],
+    "TEXT_MUTED": ["#485673"],
     "TEXT_LINK": ["#04d1ca"],
     "TEXT_DANGER":["#a10000"],
     "INTERACTIVE_ACTIVE": ["#5096e6"],
