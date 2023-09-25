@@ -19,6 +19,7 @@
     "BACKGROUND_MESSAGE_HOVER": ["#6788db"],
     "BACKGROUND_MODIFIER_SELECTED": ["#1d3857"],
     "CHANNEL_ICON": ["#485673"],
+    "CHANNEL_TEXT_AREA_PLACEHOLDER": ["#ffffff"],
     "CHAT_BACKGROUND": ["#0c1221"],
     "TEXT_NORMAL": ["#ffffff"],
     "TEXT_LINK": ["#04d1ca"],
@@ -26,8 +27,7 @@
     "TEXT_DANGER":["#a10000"],
     "INTERACTIVE_ACTIVE": ["#ffffff"],
     "INTERACTIVE_MUTED": ["#485673"],
-    "INTERACTIVE_NORMAL": ["#6788db"],
-    "CHANNEL_TEXT_AREA_PLACEHOLDER": ["#ffffff"]
+    "INTERACTIVE_NORMAL": ["#6788db"]
   },
   "rawColors": {
     "PRINARY_100": "#5096e6",
