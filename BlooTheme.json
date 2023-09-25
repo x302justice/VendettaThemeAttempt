@@ -1,0 +1,51 @@
+{
+  "name": "Bloo Theme",
+  "description": "A theme that makes discord turn blue.",
+  "authors": [
+    {
+    "name" : "x302justice",
+    "id" : "1016089123146178590"
+    }
+  ],
+  "spec":2,
+  "semanticColors": {
+    "HEADDER_PRIMARY": ["ffffff"],
+    "HEADDER_SECONDARY": ["#485673"],
+    "BACKGROUND_PRIMARY": ["#0d1836"],
+    "BACKGROUND_SECONDARY": ["#0d1836"],
+    "BACKGROND_TERTIARY": ["#0d1836"],
+    "BACKGROUND_ACCENT": ["#4d73bf"],
+    "BACKGROUND_SECONDARY_ALT": ["#233c82"],
+    "BACKGROUND_MESSAGE_HOVER": ["#6788db"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#6788db"],
+    "CHANNEL_ICON": ["#485673"],
+    "CHAT_BACKGROUND": ["#0c1221"],
+    "TEXT_NORMAL": ["#ffffff"],
+    "TEXT_LINK": ["#04d1ca"],
+    "TEXT_MUTED": ["#485673"],
+    "TEXT_DANGER":["#a10000"],
+    "INTERACTIVE_ACTIVE": ["#ffffff"],
+    "INTERACTIVE_MUTED": ["#485673"],
+    "INTERACTIVE_NORMAL": ["#6788db"],
+    "CHANNEL_TEXT_AREA_PLACEHOLDER": ["#ffffff"]
+  },
+  "rawColors": {
+    "PRINARY_100": "#5096e6",
+    "PRIMARY_200": "#0b3666",
+    "PRIMARY_300": "#4d73bf",
+    "PRIMARY_400": "#0d1836",
+    "PRIMARY_500": "#ffffff",
+    "PRIMARY_600": "#060724",
+    "PRIMARY_630": "#0d1836",
+    "PRIMARY_660": "#0d1836",
+    "PRIMARY_700": "#1d3857",
+    "PRIMARY_800": "#0d1836",
+    "BRAND_260": "#375adb",
+    "BRAND_360": "#6200ff",
+    "BRAND_560": "#4d73bf",
+    "GREEN_360": "#1cad39",
+    "RED_400": "#b31515",
+    "WHITE_500": "#ffffff",
+    "YELLOW_300": "#d1c517"
+  }
+}
