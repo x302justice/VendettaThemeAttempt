@@ -26,6 +26,7 @@
     "TEXT_DANGER":["#a10000"],
     "INTERACTIVE_ACTIVE": ["#ffffff"],
     "INTERACTIVE_MUTED": ["#485673"],
+    "INTERACTIVE_NORMAL": ["#6788db"],
     "CHANNEL_TEXT_AREA_PLACEHOLDER": ["#ffffff"]
   },
   "rawColors": {
